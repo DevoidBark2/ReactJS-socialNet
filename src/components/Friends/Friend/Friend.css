@@ -1,0 +1,46 @@
+.friend{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: crimson;
+    width: 700px;
+    padding: 20px 20px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    margin-left: 30px;
+}
+.friend-account{
+    display: flex;
+    align-items: center;
+}
+.friend-photo{
+    margin-right: 40px;
+}
+.friend img{
+    width: 50px;
+    height: 50px;
+}
+.friend-name{
+    font-size: 20px;
+    margin-right: 70px;
+    width: 100px;
+    text-decoration: none;
+    color: #fff;
+}
+.friend-mess{
+    text-decoration: none;
+    font-size: 16px;
+    color: #fff;
+    transition: 0.2s ease-in;
+}
+.friend-mess:hover{
+    color: #000;
+}
+.friend-delete{
+    text-decoration: none;
+    color: #fff;
+    transition: 0.2s ease-in;
+}
+.friend-delete:hover{
+    color: #000;
+}

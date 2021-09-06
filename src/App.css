@@ -1,0 +1,19 @@
+.App{
+  max-width: 1360px;
+  margin: 0 auto;
+}
+.Social{
+  padding-top: 30px;
+  background-image:url(https://images.wallpaperscraft.ru/image/single/doski_chrnyy_ryad_tekstura_fon_derevo_55220_1920x1080.jpg);
+}
+.content{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+  width: 1360px;
+}
+
+
+
+
+

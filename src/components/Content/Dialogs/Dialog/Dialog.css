@@ -1,0 +1,38 @@
+.avatar img{
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+    border-radius: 50%;
+    margin-top: 5px;
+   margin-left: 10px;
+}
+.name-avatar{
+    margin-right: 30px;
+}
+.dialog-main{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    width: 300px;
+    background-color:burlywood;
+    border-radius: 30px;
+    margin-left: 30px;
+}
+.dialog-btn{
+    background-color: darkgoldenrod;
+    margin-right: 20px;
+    border-radius: 30px;
+    padding: 5px 10px;
+}
+.dialog-btn button{
+    margin-right: 10px;
+}
+.dialog-btn a{
+    text-decoration: none;
+    color: #fff;
+}
+.dialog{
+    padding-right: 20px;
+}

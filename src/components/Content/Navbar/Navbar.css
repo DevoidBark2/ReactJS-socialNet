@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+    background-color:burlywood;
+    text-align: center;
+    padding-top: 60px;
+    row-gap: 100px;
+    width: 200px;
+    height: 1000px;
+    border-radius: 30px;
+}
+.navbar a{
+    text-decoration: none;
+    font-family: 700;
+    color: #fff;
+    font-size: 25px;
+    transition: color  0.2s ease-in;
+}
+.navbar a:hover{
+  color: black;
+}
+.navbar a.active{
+  color: black;
+  font-weight: 500;
+}

@@ -1,0 +1,11 @@
+.friends{
+    width: 1020px;
+    border: 2px solid #4c4c;
+    background-color: burlywood;
+    display: flex;
+    /* align-items: center; */
+}
+.friend-title{
+    text-align: center;
+    margin-bottom: 50px;
+}
